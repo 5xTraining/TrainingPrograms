@@ -2,7 +2,7 @@
 
 ## 關於這份訓練教材
 
-這是五倍紅寶石的 [ASTRO Camp](https://astro.5xruby.tw) 學員的補充訓練教材，用以建立學員對網站開發各種前、後端技術的流程及基礎知識。
+這是五倍學院的 [ASTRO Camp](https://astro.5xruby.tw) 學員的補充訓練教材，用以建立學員對網站開發各種前、後端技術的流程及基礎知識。
 
 在本份教材中會有下列兩種角色：
 
@@ -18,3 +18,4 @@
 以 [Creative Commons 姓名標示-非商業性-相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_TW) 授權。
 
 [![Creative Common License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_TW)
+
